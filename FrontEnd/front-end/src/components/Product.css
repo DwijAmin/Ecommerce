@@ -1,0 +1,48 @@
+img{
+  
+    
+    border-radius: 12px;  
+    margin-top: 20px;
+}
+.paper{
+    background-color: rgb(105, 103, 103);
+    backdrop-filter: blur(3.5em);
+    margin-left: 50px;
+
+}
+
+
+
+.papers{
+    background-color: blue;
+     
+     width: '18rem';
+     height:'23rem';
+ }
+ .pro{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(241, 237, 237);
+    background-size:100%;
+ }
+ .pa{
+   
+    background-size:100%;
+     display: flex;
+     flex-wrap:wrap;
+      justify-content: center;
+     text-align: center;
+   
+     background-color: rgb(241, 237, 237);
+    }
+    .carousel{
+        display: flex;
+        margin-right: 80px;
+        margin-left: 90px;
+    }
+
+    .dixx{
+        display: flex;
+     
+    }
+ 

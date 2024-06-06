@@ -1,0 +1,74 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(220, 223, 228);
+    padding: 0.1cm;
+    height: 1.2cm;
+    z-index: 5;
+    width: 100%;
+  
+  }
+  .header_left{
+    display: flex;
+    justify-content: space-between;
+  }
+  .buttons{
+    margin-left: 150px;
+  }
+  .header_input {
+    display: flex;
+    align-items: center;
+    background-color: rgb(220, 223, 228);
+    padding: 10px;
+    margin-left: 400px;
+    border-style: solid;
+    border-color: gray;
+  
+   border-radius: 990px;
+  
+
+  }
+  
+  .header_meddle{
+  
+    display: flex;
+  }
+  .header_option{
+    display: flex;
+    margin-left: 600px;
+    align-items: center;
+    padding: 0 30px;
+    cursor: pointer;
+  }
+  .header_right{
+    margin-left: 35px;
+    display: flex;
+  }
+  .header_input > input{
+    border: none;
+    outline-width: 0;
+    color: rgb(0, 5, 5);
+    padding-right: 270px;
+    width: 100%;
+    background-color: rgb(220, 223, 228);
+  }
+  .header_option > .MuiSvgIcon-root{
+    color: gray;
+  }
+  
+  .header_option:hover > .MuiSvgIcon-root{
+    color:darkslateblue;
+   
+  }
+  
+  .header_option:hover {
+    background-color:rgb(218, 216, 233);
+    border-radius: 19px;
+    align-items: center;
+    
+   
+    border-bottom: none;
+   
+  }
+  

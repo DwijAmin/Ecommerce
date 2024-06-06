@@ -1,0 +1,28 @@
+.order_{
+    width: 70%;
+   
+    margin: 160px;
+    margin-left: 180px;
+    margin-top: 10px;
+     min-height: 260px;
+  background-color: rgb(213, 216, 220);
+    border-radius: 10px; 
+}
+.detailss{
+  margin-left: 20px;
+  background: transparent;
+  border-style: solid;
+  border-color: gray;
+
+ border-radius: 10px;
+
+}
+.details{
+  margin-left: 20px;
+  margin-top: 20px;
+  color: rgb(83, 92, 100);
+}
+
+.buttonss{
+  margin-right: 7px;
+}
